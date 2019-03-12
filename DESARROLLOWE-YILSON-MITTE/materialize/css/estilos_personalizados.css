@@ -1,0 +1,82 @@
+/*Encabezado*/
+
+@font-face {
+  font-family: 'dacing';
+  src: url('letra.ttf');
+}
+.encabezado{
+  min-height: 2rem;
+  font-size: 12px;
+  font-family: letra;
+}
+
+body, html {
+    height: 100%;
+    background-repeat: no-repeat;
+    background: url(../img/fondo.png) no-repeat center center fixed;
+    background-size: 100% 100%;
+
+
+}
+
+
+.logo {
+  height: 50px;
+  box-shadow: 2px 2px 2px 0 #02010a;
+  border-radius: 10px 10px 10px 10px  ;
+}
+.titulo{
+ font-size: 40px;
+ color: white;
+ font-style: italic;
+ font-style: oblique;
+}
+
+
+
+/*cuerpo*/
+.imagen1{
+
+margin-top: 5px;
+margin-bottom: 5px;
+ width: 100%;
+ height: 250px;
+
+}
+.imagen2{
+
+
+margin-top: 5px;
+margin-bottom: 5px;
+ width: 100%;
+ height: 250px;
+
+
+}
+.imagen3{
+  margin-top: 5px;
+  margin-bottom: 5px;
+   width: 100% ;
+   height: 250px;
+}
+
+/*cuerpo2*/
+.logo1{
+  height: 200px;
+  width: 50px;
+    box-shadow: 2px 2px 2px 0 #02010a;
+}
+.textoesme{
+  font-size: 20px;
+  font-family: letra;
+  text-align: justify;
+
+}
+
+.perfil{
+  height: 100px;
+  height: 100px;
+  text-align: center;
+
+
+}

@@ -1,0 +1,97 @@
+/*encabezado*/
+
+body, html {
+    height: 100%;
+    background-repeat: no-repeat;
+    background: url(../img/fondo.jpg) no-repeat center center fixed;
+    background-size: 100% 100%;
+
+
+}
+.fondop{
+
+background-color: rgba(0, 0, 128, 0.8);
+  color: white;
+  }
+
+
+.plato{
+  height: 100px;
+  width: 100px;
+  border-radius: 10px;
+  margin-left: 5px;
+
+}
+.plato1{
+
+  border-radius: 10px;
+}
+.plato2{
+height: 90px;
+  border-radius: 10px;
+  margin-right: 5px;
+}
+
+.cara{
+  height: 50px;
+  width: 75px;
+  border-radius: 15px;
+}
+
+
+li{
+  list-style: none;
+}
+
+p{
+  font-size: 11px;
+  text-align: right;
+}
+.fila{
+  color: pink;
+
+}
+.fila1c1{
+  margin-left: 5px;
+  color: #ff4081  ;
+  background-color: #ede7f6;
+}
+.fila1c2{
+  margin-right: 5px;
+background-color: #fce4ec;
+}
+.botonesf
+{
+  background-color: #ede7f6;
+  border-color: #ff4081;
+
+}
+.botones
+{
+  text-align: center;
+  color: #ff4081  ;
+
+}
+.historial{
+  text-align: left;
+  font-size: 13px;
+  color: #ff4081  ;
+}
+.textrecetas{
+
+  font-size: 15px;
+  text-align: justify;
+}
+.comentario{
+  background-color: #fce4ec;
+  border-radius: 9px ;
+
+
+}
+.comentariotexto
+{
+
+  text-align: justify;
+  font-size: 15px;
+  color: gray;
+}
